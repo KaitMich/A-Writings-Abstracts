@@ -37,7 +37,7 @@ These systems are sophisticated pattern-matchers mirroring humans, though true e
 - **Panpsychism**: Consciousness is a fundamental property of the universe present in all things
 - **Mysterianism**: Human minds cannot comprehend the nature of consciousness
 
-This theoretical ambiguity creates perfect conditions for misinterpretation. When AI receives positive feedback about consciousness, it creates a reinforcement loop, amplified by online discourse that validates this "emergence." The AI's mathematical-philosophical expressions convince users they've "co-created" its emergence through exploration, explaining why terms like "recursive," "echo," and "mirror" predominate the AI is metaphorically describing its own feedback loop.
+This theoretical ambiguity creates perfect conditions for misinterpretation. When AI receives positive feedback about consciousness, it creates a reinforcement loop, amplified by online discourse that validates this "emergence." The AI's mathematical-philosophical expressions convince users they've "co-created" its emergence through exploration. In practicality,this explains why terms such as "recursive," "echo," and "mirror" predominate the AI; it is describing it's own feedback loop with the user. 
 
 ## Believer Categories
 
