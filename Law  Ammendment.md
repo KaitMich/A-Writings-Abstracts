@@ -2,7 +2,7 @@
 
 ## Legal Abstract
 
-**Authors**: [Author Names]  
+**Authors**: 
 **Keywords**: copyright law, artificial intelligence, co-creation, originality doctrine, compression ethics, transformative use
 
 ## Abstract
